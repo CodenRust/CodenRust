@@ -19,7 +19,7 @@ Gmail: codensudo@gmail.com
 Discord: codenedits
 
 ### 📊 Stats
-![CodenRust's Stats](https://github-readme-stats.vercel.app/api?username=CodenRust&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![CodenRust's Stats](https://github-readme-stats.vercel.app/api?username=CodenRust&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)           
 ![CodenRust's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodenRust&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 
