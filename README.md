@@ -16,7 +16,7 @@ HTML, CSS, Python, Tailwind CSS(Nativewind)
 ### 📧 Contact Me
 
 Gmail: codensudo@gmail.com  
-Discord: codenedits
+Discord: codenedits     
 Portfolio : https://newsdiscordbot.xyz/founder
 
 ### 📊 Stats
