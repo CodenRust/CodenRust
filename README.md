@@ -17,6 +17,7 @@ HTML, CSS, Python, Tailwind CSS(Nativewind)
 
 Gmail: codensudo@gmail.com  
 Discord: codenedits
+Portfolio : https://newsdiscordbot.xyz/founder
 
 ### 📊 Stats
 ![CodenRust's Stats](https://github-readme-stats.vercel.app/api?username=CodenRust&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)           
