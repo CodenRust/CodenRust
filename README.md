@@ -11,7 +11,7 @@ My coding journey started in early 2019 when I made simple HTML page, ever since
 
 
 ### 👨‍💻 Languages
-HTML, CSS, Python, Tailwind CSS(Nativewind)
+HTML, CSS, Python, Tailwind CSS(Nativewind), Next.js, SQL
 
 ### 📧 Contact Me
 
