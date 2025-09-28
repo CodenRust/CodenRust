@@ -1,7 +1,7 @@
 
 # Hola 👋
 
-Hola, I am Coden, a full stack developer, I'am the owner/creator of [News.gg](https://github.com/Newsgg), I worked with many discord bots(CG, Study AI, etc)
+Hola, I am Coden, a full stack developer, I'am the owner/creator of [News.gg](https://newsdiscordbot.xyz), I worked with many discord bots(CG, Study AI, etc)
 
 
 
