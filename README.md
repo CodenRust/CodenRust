@@ -15,7 +15,7 @@ HTML, CSS, Python, Tailwind CSS(Nativewind), Next.js, SQL
 
 ### 📧 Contact Me
 
-Gmail: codensudo@gmail.com  
+Gmail: preetham.rangu@gmail.com  
 Discord: codenedits     
 Portfolio : https://newsdiscordbot.xyz/founder
 
