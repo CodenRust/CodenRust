@@ -15,6 +15,8 @@ Everfern is an autonomous AI agent that can **control your system GUI**, execute
 
 `AI Agents` · `GUI Automation` · `TypeScript` · `Node.js` · `Systems Programming`
 
+🔗 **Check it out:** [everfern.app](https://everfern.app) · [GitHub Repo](https://github.com/Everfern-AI/Everfern)
+
 > 🔧 Currently in active development — stay tuned.
 
 ---
@@ -31,8 +33,8 @@ Everfern is an autonomous AI agent that can **control your system GUI**, execute
 
 ## 💻 Skills
 
-**Languages:** TypeScript · JavaScript · Python · HTML · CSS · SQL  
-**Frameworks:** Next.js · Node.js · Tailwind CSS · Nativewind (React Native)  
+**Languages:** TypeScript · JavaScript · Python · HTML · CSS · SQL
+**Frameworks:** Next.js · Node.js · Tailwind CSS · Nativewind (React Native)
 **Tools:** Discord API · REST APIs · Git · Vercel
 
 ---
@@ -46,6 +48,7 @@ Everfern is an autonomous AI agent that can **control your system GUI**, execute
 
 ## 📬 Contact
 
-- **Email:** preetham.rangu@gmail.com  
-- **Discord:** codenedits  
+- **Email:** preetham.rangu@gmail.com
+- **Twitter/X:** [@preethamrangu](https://twitter.com/preethamrangu)
+- **Discord:** codenedits
 - **Portfolio:** [newsdiscordbot.xyz/founder](https://newsdiscordbot.xyz/founder)
