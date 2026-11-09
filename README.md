@@ -1,127 +1,68 @@
-# 👋 Preetham Rangu (Coden)
-**`Full-Stack Developer building at the intersection of AI and real-world utility`**
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/hero?username=codenrust&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F156891280%3Fu%3D0642c5d1985a94f4e4024a9e7822d178dce0f737%26v%3D4" alt="codenrust hero visual" />
+</p>
 
-![Open to work](https://img.shields.io/badge/Open%20to-Full%20Time%20%26%20Freelance-1D9E75?style=flat-square)
+<p align="center"><b>Preetham Rangu</b> · Frontend or full-stack engineer<br/><sub>Full-stack dev · AI agents &amp; automation · Building Everfern &amp; Moven AI</sub></p>
 
-## About Me
+<p align="center"><a href="https://github.com/codenrust">GitHub</a> · <a href="https://x.com/preethamrangu">X</a></p>
 
-- I build, ship, and create software people can actually use, from AI-powered desktop apps to real-time news infrastructure.
-- Currently building **[HunchKey](https://hunchkey.com)**, a contextual keyboard assistant that writes replies in your voice across chats and email.
-- Built **[Everfern](https://everfern.app)**, an autonomous AI agent for controlling system GUIs and executing multi-step workflows.
-- Also building **[News.gg](https://newsdiscordbot.xyz)** and **[Moven AI](https://moven.dev)**.
+<details open>
+<summary><b>📌 Top projects</b></summary>
+<br/>
 
-## Skill stack
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/projects?username=codenrust&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F156891280%3Fu%3D0642c5d1985a94f4e4024a9e7822d178dce0f737%26v%3D4" alt="codenrust projects visual" />
+</p>
 
-<!-- Skill icons provided by skill-icons.
-     Full icon list: https://github.com/tandpfun/skill-icons -->
+- [Everfern](https://github.com/Everfern-AI/Everfern) · ★ 100 — A free, open-source AI agent that runs entirely on your machine — controls your computer like you wo
+- [billingsdk](https://github.com/CodenRust/billingsdk) · ★ 0 — Modern Billing &amp; Monetization UI Components Library
+- [News.gg-Python-Lib](https://github.com/CodenRust/News.gg-Python-Lib) · ★ 0
+- [RAN-JIT](https://github.com/CodenRust/RAN-JIT) · ★ 0
+- [Hunchkey-Releases](https://github.com/CodenRust/Hunchkey-Releases) · ★ 0
+- [arbor-basketball-prod](https://github.com/CodenRust/arbor-basketball-prod) · ★ 0
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,py,html,css,nextjs,nodejs,tailwind,vercel,git,github&theme=light)](https://skillicons.dev)
+</details>
 
-**Also comfortable with:** SQL, REST APIs, Discord API, React Native, Nativewind, Tauri, and desktop application development.
+<details>
+<summary><b>🧰 Stack</b></summary>
+<br/>
 
----
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stack?username=codenrust&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F156891280%3Fu%3D0642c5d1985a94f4e4024a9e7822d178dce0f737%26v%3D4" alt="codenrust stack visual" />
+</p>
 
-## 🚀 Featured Project — HunchKey
+</details>
 
-> **Your next message, in your voice.**
+<details>
+<summary><b>📊 By the numbers</b></summary>
+<br/>
 
-[HunchKey](https://hunchkey.com) is a contextual keyboard assistant for Windows and macOS that helps you write replies that sound like you, tailored to the person you're talking to.
+<b>13</b> public repositories, <b>0</b> stars, <b>2,568</b> contributions in the last year, a longest streak of <b>27</b> days and <b>10</b> followers.
 
-Click into an empty reply in Discord, Slack, WhatsApp, or email and press `Ctrl + Shift + H`. HunchKey uses conversation context to suggest replies in your voice. Choose a suggestion, or tell it what you want in plain English.
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/stats?username=codenrust&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F156891280%3Fu%3D0642c5d1985a94f4e4024a9e7822d178dce0f737%26v%3D4" alt="codenrust stats visual" />
+</p>
 
-**What it does:**
+</details>
 
-- **Contextual replies:** Generate replies based on the conversation and your relationship with the recipient.
-- **Tell it what you want:** Describe your intended message, and HunchKey turns it into a reply in your voice.
-- **Draft fixing:** Press `Ctrl + Shift + R` to correct your writing while preserving your tone, shorthand, and intended meaning.
-- **Sentence completion:** Pick up where you left off in emails, documents, code editors, and web forms.
-- **Personalized writing:** Adapt to different people and writing styles, with the ability to review and manage remembered details.
-- **Privacy-conscious by design:** No suggestions until you ask, no automatic sending, and password fields are never read.
+<details>
+<summary><b>🟩 Activity</b></summary>
+<br/>
 
-Available for Windows and macOS. Free during early access.
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/heatmap?username=codenrust&theme=neon" alt="codenrust contribution activity" />
+</p>
 
-`AI` · `Desktop Apps` · `Tauri` · `Next.js` · `Python` · `Contextual Writing`
+</details>
 
-🔗 **[Website](https://hunchkey.com)** · **[Download](https://hunchkey.com/download/)**
+<details>
+<summary><b>👋 Say hello</b></summary>
+<br/>
 
----
+<p align="center">
+  <img src="https://www.gitskins.com/api/section/social?username=codenrust&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F156891280%3Fu%3D0642c5d1985a94f4e4024a9e7822d178dce0f737%26v%3D4" alt="codenrust social visual" />
+</p>
 
-## 🌿 Featured Project — Everfern
+</details>
 
-> **An autonomous AI agent for computer-use workflows.**
-
-Everfern is an AI agent designed to control system GUIs, interact with applications, and execute multi-step tasks. The project explores how AI agents can go beyond answering questions to performing useful work on a computer.
-
-`AI Agents` · `GUI Automation` · `TypeScript` · `Node.js` · `Systems Programming`
-
-🔗 **[Website](https://everfern.app)** · **[GitHub Repository](https://github.com/Everfern-AI/Everfern)**
-
----
-
-## 🛠️ Projects Showcase
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <br/>
-      <b>HunchKey</b><br/>
-      <sub>A contextual keyboard assistant that writes replies in your voice, fixes drafts, and completes sentences.</sub><br/><br/>
-      🔗 <a href="https://hunchkey.com">Website</a> · <a href="https://hunchkey.com/download/">Download</a>
-      <br/><br/>
-      <sub>AI · Desktop Apps · Contextual Writing</sub>
-    </td>
-    <td align="center" width="50%">
-      <br/>
-      <b>News.gg</b><br/>
-      <sub>A real-time news Discord bot delivering updates from thousands of RSS sources across the world.</sub><br/><br/>
-      🔗 <a href="https://newsdiscordbot.xyz">Website</a>
-      <br/><br/>
-      <sub>Discord Bot · Node.js · Discord.js · News Infrastructure</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <br/>
-      <b>Everfern</b><br/>
-      <sub>An autonomous AI agent for GUI control and multi-step computer workflows.</sub><br/><br/>
-      🔗 <a href="https://everfern.app">Website</a> · <a href="https://github.com/Everfern-AI/Everfern">GitHub</a>
-      <br/><br/>
-      <sub>AI Agents · GUI Automation · TypeScript</sub>
-    </td>
-    <td align="center" width="50%">
-      <br/>
-      <b>Moven AI</b><br/>
-      <sub>An AI circuit breaker designed to improve the reliability of AI agents.</sub><br/><br/>
-      🔗 <a href="https://moven.dev">Website</a>
-      <br/><br/>
-      <sub>AI Agents · Reliability · Node.js</sub>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 GitHub Stats
-
-<!-- Stats cards powered by github-readme-stats.
-     Documentation: https://github.com/anuraghazra/github-readme-stats -->
-
-![Preetham's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodenRust&show_icons=true&theme=tokyonight&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CodenRust&show_icons=true&theme=tokyonight&layout=compact)
-
----
-
-## 🔗 Connect with Me
-
-- **[HunchKey](https://hunchkey.com)** — Your next message, in your voice.
-- **[Portfolio](https://newsdiscordbot.xyz/founder)** — More about my work.
-- **[GitHub](https://github.com/CodenRust)** — Explore my projects.
-- **[Contact](mailto:preetham.rangu@gmail.com)** — Get in touch.
-
-<a href="https://twitter.com/preethamrangu" target="_blank">
-  <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" />
-</a>
-<a href="https://discord.com/users/codenedits" target="_blank">
-  <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
-</a>
+<p align="center"><sub>Preetham Rangu · Everything hub generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
